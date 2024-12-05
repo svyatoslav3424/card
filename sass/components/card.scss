@@ -21,6 +21,14 @@
   height: 29px;
 }
 
+.card-reactions{
+    display: flex;
+    padding: 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+
 .card-top {
   display: flex;
   gap: 16px;
